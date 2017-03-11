@@ -1,0 +1,26 @@
+= Some OSHW projects (mainly PCB)
+Dmitry Murzinov <kakstattakim@gmail.com>
+v1.0, 11.03.2017
+:doctype: article
+:lang: en
+:stem:
+:grid: all
+:align: center
+:imagesdir: img
+:homepage: http://idoka.ru
+ifdef::env-github[]
+:status:
+:outfilesuffix: .adoc
+:!toc-title:
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
+
+
+TIP: Russian description available here: http://idoka.ru/oshpark/
+
+
+
